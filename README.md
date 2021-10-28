@@ -3,8 +3,8 @@
 ## I'm a Junior Video Game and Software Developer.
 
 During my career I have developed/participated in some video games in events called GameJams from my University. <br> 
-I have always been an autodidact and I learned Java at a intermediate level by looking for some courses online.
-I'm currently practicing Data Structures so I can improve my coding skills and problem resolution.
+I have always been an autodidact and I like to learn new things to improve my coding skills.
+I'm currently practicing Data Structures so I can improve my coding and problem-solving skills.
 
 
 ## Skills:
