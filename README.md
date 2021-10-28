@@ -9,23 +9,22 @@ I'm currently practicing Data Structures so I can improve my coding skills and p
 
 ## Skills:
 
-![](Images/unity_icon.png) Unity3D 
-![](Images/unreal_icon.png) Unreal Engine 4
-![](Images/c++_icon.png) C++ 
-![](Images/c_sharp_icon.png) C# <br>
-![](Images/java_icon.png) Java 
-![](Images/javascript_icon.png) JavaScript 
-![](Images/my_sql_icon.png) MySQL 
-![](Images/html_icon.png) Html <br>
-![](Images/css_icon.png) Css <br>
+![](Images/unity_icon.png) &nbsp;&nbsp;
+![](Images/unreal_icon.png) &nbsp;&nbsp;
+![](Images/c++_icon.png) &nbsp;&nbsp;
+![](Images/c_sharp_icon.png) &nbsp;&nbsp;
+![](Images/java_icon.png) &nbsp;&nbsp;
+![](Images/javascript_icon.png) &nbsp;&nbsp;
+![](Images/my_sql_icon.png) &nbsp;&nbsp;
+![](Images/html_icon.png) &nbsp;&nbsp;
+![](Images/css_icon.png)
 
 
 ## Contact:
 
-Facebook        [David Hz](https://www.facebook.com/David.Hzad) <br>
-Email           dave.hzad@gmail.com
-
-<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
+[![](Images/facebook_icon.png)](https://www.facebook.com/David.Hzad) &nbsp;&nbsp;
+[![](Images/linkedin_icon.png)](https://www.linkedin.com/in/dave-hdz) &nbsp;&nbsp;
+[![](Images/youtube_icon.png)](https://youtu.be/LXLt1XXjcBI)
 
 <!---
 DavidHz26/DavidHz26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
