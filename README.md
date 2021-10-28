@@ -1,6 +1,6 @@
 # 👋 Hi! My name is David Hernández
 
-## I'm a Junior Video Game and Software Developer.
+## I'm a Video Game and Software Developer Junior.
 
 During my career I have developed/participated in some video games in events called GameJams from my University. <br> 
 <br>
