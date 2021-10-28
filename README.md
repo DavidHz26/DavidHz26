@@ -14,8 +14,8 @@ I'm currently practicing Data Structures so I can improve my coding skills and p
 ![](Images/c++_icon.png) &nbsp;&nbsp;
 ![](Images/c_sharp_icon.png) &nbsp;&nbsp;
 ![](Images/java_icon.png) &nbsp;&nbsp;
-![](Images/javascript_icon.png) &nbsp;&nbsp;
 ![](Images/my_sql_icon.png) &nbsp;&nbsp;
+![](Images/javascript_icon.png) &nbsp;&nbsp;
 ![](Images/html_icon.png) &nbsp;&nbsp;
 ![](Images/css_icon.png)
 
