@@ -4,9 +4,9 @@
 
 During my career I have developed/participated in some video games in events called GameJams from my University. <br> 
 <br>
-I have always been an autodidact and I like to learn new things to improve my coding skills. <br>
+I have always been an autodidact and I like to learn new things to improve my coding skills and share things I learned in case it becomes helpful to someone else. <br>
 <br>
-I'm currently practicing Data Structures so I can improve my coding and problem-solving skills.
+I'm currently practicing Data Structures to improve my code practices and problem-solving skills.
 
 
 ## Skills:
