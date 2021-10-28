@@ -2,7 +2,7 @@
 
 ## I'm a Video Game and Software Developer Junior.
 
-During my career I have developed/participated in some video games in events called GameJams from my University. <br> 
+During my career I have developed/participated in some video games (in events called GameJams organized by my University, Personal Projects and University Projects). <br> 
 <br>
 I have always been an autodidact and I like to learn new things to improve my coding skills and share things I learned in case it becomes helpful to someone else. <br>
 <br>
