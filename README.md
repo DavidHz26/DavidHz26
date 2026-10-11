@@ -4,9 +4,9 @@ I'm a Software Engineer & Web Developer with a degree in Game Programming Engine
 
 Over the past few years, I've had the opportunity to:
 
-* **Co-lead core migrations:** Transitioning legacy applications to modern architectures.
-* **Design security architectures:** Implementing Amazon Cognito, request-level middleware, and dual RBAC models (GCP/Firebase and AWS Lambdas/MySQL) for sensitive data and financial workflows.
-* **Build high-concurrency systems:** Engineering full-stack web platforms and interactive systems serving thousands of real-time active users using React, Node.js, and C++.
+* **Co-lead core migrations:** Transitioning complex legacy applications to modern, maintainable architectures.
+* **Design security architectures:** Implementing robust authentication flows, request-level security middleware, and role-based access control (RBAC) models for sensitive data and financial workflows.
+* **Build high-concurrency systems:** Engineering full-stack web platforms and interactive systems capable of serving thousands of real-time active users.
 
 I’m passionate about clean code, performance optimization, and developer experience. Always exploring modern web trends, state management, and secure session management patterns.
 
