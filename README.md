@@ -1,34 +1,15 @@
-# 👋 Hi! My name is David Hernández
+# Hi! I'm David Hernández 👋
 
-## I'm a Game and Software Developer Junior.
+I'm a Software Engineer & Web Developer with a degree in Game Programming Engineering based in Mexico City. I specialize in building scalable frontend architectures, robust backend systems, and high-performance interactive applications.
 
-During my career I have developed/participated in some video games (in events called GameJams organized by my University, Personal Projects and University Projects). <br> 
-<br>
-I have always been an autodidact and I like to learn new things to improve my coding skills and share things I learned in case it becomes helpful to someone else. <br>
-<br>
-I'm currently practicing Data Structures to improve my code practices and problem-solving skills.
+Over the past few years, I've had the opportunity to:
 
+* **Co-lead core migrations:** Transitioning legacy applications to modern Angular & TypeScript architectures.
+* **Design security architectures:** Implementing Amazon Cognito, request-level middleware, and dual RBAC models (GCP/Firebase and AWS Lambdas/MySQL) for sensitive data and financial workflows.
+* **Build high-concurrency systems:** Engineering full-stack web platforms and interactive systems serving thousands of real-time active users using React, Node.js, and C++.
 
-## Skills:
-
-![](Images/unity_icon.png) &nbsp;&nbsp;
-![](Images/unreal_icon.png) &nbsp;&nbsp;
-![](Images/c++_icon.png) &nbsp;&nbsp;
-![](Images/c_sharp_icon.png) &nbsp;&nbsp;
-![](Images/java_icon.png) &nbsp;&nbsp;
-![](Images/my_sql_icon.png) &nbsp;&nbsp;
-![](Images/javascript_icon.png) &nbsp;&nbsp;
-![](Images/html_icon.png) &nbsp;&nbsp;
-![](Images/css_icon.png)
-
+I’m passionate about clean code, performance optimization, and developer experience. Always exploring modern web trends, state management, and secure session management patterns.
 
 ## Contact:
 
-[![](Images/facebook_icon.png)](https://www.facebook.com/David.Hzad) &nbsp;&nbsp;
-[![](Images/linkedin_icon.png)](https://www.linkedin.com/in/dave-hdz) &nbsp;&nbsp;
-[![](Images/youtube_icon.png)](https://youtu.be/LXLt1XXjcBI)
-
-<!---
-DavidHz26/DavidHz26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](Images/linkedin_icon.png)](https://www.linkedin.com/in/dave-hdz)
